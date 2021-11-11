@@ -8,6 +8,7 @@ Big sur / Monerey適用
 4.bt:https://github.com/OpenIntelWireless/IntelBluetoothFirmware
 
 硬件規格
+bios:version 302
 cpu:skylake i5 
 ram:12GB
 wifi&bt:intel AC7265
