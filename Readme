@@ -1,6 +1,12 @@
 用於Big sur / Monterey
 基於opencore引導
 
+規格
+cpu:skylake i5 
+ram:12GB
+gpu:intel graphic 520
+獨顯屏蔽
+
 初次安裝須關閉以下bios設定：
 1.csm
 2.wifi / bluetooth
