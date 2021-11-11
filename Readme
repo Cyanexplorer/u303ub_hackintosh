@@ -1,6 +1,11 @@
 Big sur / Monerey適用
 基於opencore引導，搭配AsusSMC做背光控制
-<i src='https://github.com/hieplpvip/AsusSMC'>AsusSMC</i>
+
+連結
+1.opencore:https://github.com/acidanthera/OpenCorePkg
+2.AsusSMC:https://github.com/hieplpvip/AsusSMC
+3.wifi:https://github.com/OpenIntelWireless/itlwm
+4.bt:https://github.com/OpenIntelWireless/IntelBluetoothFirmware
 
 硬件規格
 cpu:skylake i5 
