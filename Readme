@@ -1,9 +1,10 @@
-用於Big sur / Monterey
-基於opencore引導
+Big sur / Monerey適用
+基於opencore引導，搭配AsusSMC做背光控制
 
-規格
+硬件規格
 cpu:skylake i5 
 ram:12GB
+wifi&bt:intel AC7265
 gpu:intel graphic 520
 獨顯屏蔽
 
@@ -12,5 +13,6 @@ gpu:intel graphic 520
 2.wifi / bluetooth
 3.vt虛擬化
 4.安全啟動
+安裝完後再做調整
 
-安裝完成再後根據版本植入對應的itlwm
+安裝完成再後根據版本植入對應的itlwm驅動wifi和藍芽
