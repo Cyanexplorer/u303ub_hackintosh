@@ -13,6 +13,5 @@ gpu:intel graphic 520
 2.wifi / bluetooth
 3.vt虛擬化
 4.安全啟動
-安裝完後再做調整
 
-安裝完成再後根據版本植入對應的itlwm驅動wifi和藍芽
+安裝完成後根據版本植入對應的itlwm驅動wifi和藍芽
